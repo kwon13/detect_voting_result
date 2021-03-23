@@ -3,7 +3,7 @@
 표에서 특정 행을 선택한 이미지를 보여주면 Tesseract OCR을 이용하여 해당 행의 맨 앞의 글자를 인식한 후 출력됩니다.
 
 ***
-사용예시![5](https://user-images.githubusercontent.com/77109972/112175229-6d057c80-8c3a-11eb-954f-ba23903fe2f0.jpg)
+사용예시
 
 https://user-images.githubusercontent.com/77109972/112175071-45161900-8c3a-11eb-8c85-9187ed0ee258.mp4
 
