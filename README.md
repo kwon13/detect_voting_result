@@ -1,4 +1,4 @@
-# CatDogClassification :cat::dog:
+# recognition 
 
 표에서 특정 행을 선택한 이미지를 보여주면 Tesseract OCR을 이용하여 해당 행의 맨 앞의 글자를 인식한 후 출력됩니다.
 
