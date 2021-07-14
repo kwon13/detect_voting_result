@@ -1,6 +1,6 @@
-# 🤖 detect_voting_result
+# 🗳 detect_voting_result
 
-투표용지의 체크박스를 인식한 후 번호를 출력합니다.
+투표용지의 체크박스를 인식한 후 번호를 출력합니다!
 
 ### 사용예시
 
